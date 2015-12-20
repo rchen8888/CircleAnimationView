@@ -20,6 +20,7 @@ class ViewController: UIViewController {
 //        self.view.addSubview(view1)
         // Do any additional setup after loading the view, typically from a nib.
 //        let cv =
+        
         cv.center = self.view.center
         cv.lineWidth = 5
         cv.lineColor = UIColor.blueColor()
